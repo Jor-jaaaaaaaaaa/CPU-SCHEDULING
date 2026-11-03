@@ -24,14 +24,20 @@ promptที่ใช้: สร้าง prompt ที่ใช้สร้า�
 ทดลองเขียนทดสอบด้วยมือ<br>
 <img width="1694" height="925" alt="image" src="https://github.com/user-attachments/assets/4b5edda2-39a3-4169-bbf0-5c665cd2e336" />
 FCFS
+เขียนมือ
 <img width="1395" height="1164" alt="image" src="https://github.com/user-attachments/assets/107ba4a4-41ec-4206-a028-b32a06529c62" />
+โปรแกรม
 <img width="1253" height="525" alt="image" src="https://github.com/user-attachments/assets/5dd63571-9dbd-4781-9028-287a1dba666b" />
 
 SJF
+เขียนมือ
 <img width="1444" height="1191" alt="image" src="https://github.com/user-attachments/assets/6a27044c-f920-4acc-b11b-fe8e1988a74f" />
+โปรแกรม
 <img width="1224" height="519" alt="image" src="https://github.com/user-attachments/assets/cd321f27-3a00-46fa-babf-611978c74f80" />
 
 RR
+เขียนมือ
 <img width="1509" height="1174" alt="image" src="https://github.com/user-attachments/assets/3a0febd3-409a-4513-b6bf-32928303ec8c" />
+โปรแกรม
 <img width="1258" height="851" alt="image" src="https://github.com/user-attachments/assets/ea5171b1-943a-4b7f-ae0b-8ef1eebfecca" />
 
