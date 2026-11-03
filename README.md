@@ -14,7 +14,7 @@ Extension : Live Server<br>
 (ใส่ไฟล์รายละเอียดงานโปรเจค)<br>
 promptที่ใช้: สร้าง prompt ที่ใช้สร้างuiใน stitch เพื่อทำเว็บแอพตามเงื่อนไขที่ส่งไป<br>
 
-ผลลัพธ์ 
+ผลลัพธ์ <br>
 <img width="614" height="837" alt="image" src="https://github.com/user-attachments/assets/5edfc7e6-be6d-4628-a735-470f91c404de" />
 
 ตัวอย่าง Prompt สำคัญที่ใช้ Stitch<br>
