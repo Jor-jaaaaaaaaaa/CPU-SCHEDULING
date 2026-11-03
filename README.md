@@ -18,7 +18,9 @@ promptที่ใช้: สร้าง prompt ที่ใช้สร้า�
 <img width="614" height="837" alt="image" src="https://github.com/user-attachments/assets/5edfc7e6-be6d-4628-a735-470f91c404de" />
 
 ตัวอย่าง Prompt สำคัญที่ใช้ Stitch<br>
-ใส่Promptที่ai genลงไป<br>
+ใส่Promptที่ai สร้างลงไป<br>
+
+ผลลัพธ์ <br>
 <img width="1280" height="1490" alt="image" src="https://github.com/user-attachments/assets/3380baa5-6417-40cf-801e-01b95eccb86b" />
 
 ตัวอย่างข้อมูลสำหรับทดสอบ<br>
