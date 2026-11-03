@@ -19,7 +19,7 @@ promptที่ใช้: สร้าง prompt ที่ใช้สร้า�
 
 ตัวอย่าง Prompt สำคัญที่ใช้ Stitch<br>
 ใส่Promptที่ai genลงไป<br>
-web application/stitch/projects/4525883570693102805/screens/7252136f8b8541a7ac875505858f6955<img width="1280" height="1490" alt="image" src="https://github.com/user-attachments/assets/3380baa5-6417-40cf-801e-01b95eccb86b" />
+<img width="1280" height="1490" alt="image" src="https://github.com/user-attachments/assets/3380baa5-6417-40cf-801e-01b95eccb86b" />
 
 ทดลองเขียนทดสอบด้วยมือ<br>
 <img width="1694" height="925" alt="image" src="https://github.com/user-attachments/assets/4b5edda2-39a3-4169-bbf0-5c665cd2e336" />
