@@ -3,13 +3,6 @@
 2.แตกไฟล์zip<br> 
 3.เปิดไฟล์index.html<br>
 
-ตัวอย่างข้อมูลสำหรับทดสอบ<br>
- - ไม่กรอกจำนวนโปรเซส<br>
- - จำนวนโปรเซสเป็น 0 หรือติดลบ<br>
- - Burst Time ไม่ใช่จำนวนเต็มบวก<br>
- - Time Quantum ไม่ใช่จำนวนเต็มบวก<br>
- - กรอกข้อมูลไม่ครบทุกโปรเซส<br>
-
 เครื่องมือและversionที่ใช้<br>
 Vs code : version 1.143.1<br>
 Extension : Live Server<br>
@@ -28,7 +21,7 @@ promptที่ใช้: สร้าง prompt ที่ใช้สร้า�
 ใส่Promptที่ai genลงไป<br>
 <img width="1280" height="1490" alt="image" src="https://github.com/user-attachments/assets/3380baa5-6417-40cf-801e-01b95eccb86b" />
 
-ทดลองเขียนทดสอบด้วยมือ<br>
+ตัวอย่างข้อมูลสำหรับทดสอบ<br>
 <img width="1694" height="925" alt="image" src="https://github.com/user-attachments/assets/4b5edda2-39a3-4169-bbf0-5c665cd2e336" />
 FCFS<br>
 เขียนมือ
