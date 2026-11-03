@@ -10,7 +10,7 @@ Extension : Live Server<br>
  เครื่องมือ AI และตัวอย่าง Prompt สำคัญที่ใช้<br>
  Gemini 3.8, Claude Opus 5.5, Stitch<br>
 
-ตัวอย่าง Prompt สำคัญที่ใช้ Gemini<br>
+ตัวอย่าง Prompt สำคัญที่ใช้ Gemini<br><br>
 (ใส่ไฟล์รายละเอียดงานโปรเจค)<br>
 promptที่ใช้: สร้าง prompt ที่ใช้สร้างuiใน stitch เพื่อทำเว็บแอพตามเงื่อนไขที่ส่งไป<br>
 
