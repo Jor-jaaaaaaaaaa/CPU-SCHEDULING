@@ -1,7 +1,7 @@
-#วิธีติดตั้ง\n
-1.ดาวโหลดzip file\n 
-2.แตกไฟล์zip 
-3.เปิดไฟล์index.html
+#วิธีติดตั้ง<br>
+1.ดาวโหลดzip file<br> 
+2.แตกไฟล์zip<br> 
+3.เปิดไฟล์index.html<br>
 
 เครื่องมือและversionที่ใช้
 Vs code : version 1.143.1
